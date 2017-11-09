@@ -1,0 +1,13 @@
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.dll.config
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\Sample03.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\Newtonsoft.Json.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\Newtonsoft.Json.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.csproj.App.config
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample03\obj\Debug\Sample03.csprojResolveAssemblyReference.cache

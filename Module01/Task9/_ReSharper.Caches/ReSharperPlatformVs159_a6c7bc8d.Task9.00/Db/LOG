@@ -1,0 +1,28 @@
+2017/10/23-11:13:49.093 424c Delete type=3 #1
+2017/10/23-11:14:04.319 3d98 Level-0 table #5: started
+2017/10/23-11:14:04.691 3d98 Level-0 table #5: 4377448 bytes OK
+2017/10/23-11:14:04.742 3d98 Delete type=0 #3
+2017/10/23-11:14:05.066 3d98 Level-0 table #7: started
+2017/10/23-11:14:05.492 3d98 Level-0 table #7: 3860382 bytes OK
+2017/10/23-11:14:05.517 3d98 Delete type=0 #4
+2017/10/23-11:14:05.859 3d98 Level-0 table #9: started
+2017/10/23-11:14:06.130 3d98 Level-0 table #9: 4115503 bytes OK
+2017/10/23-11:14:06.178 3d98 Delete type=0 #6
+2017/10/23-11:14:06.465 3d98 Level-0 table #11: started
+2017/10/23-11:14:06.727 3d98 Level-0 table #11: 3743472 bytes OK
+2017/10/23-11:14:06.751 3d98 Delete type=0 #8
+2017/10/23-11:14:07.003 3d98 Level-0 table #13: started
+2017/10/23-11:14:07.246 3d98 Level-0 table #13: 3921813 bytes OK
+2017/10/23-11:14:07.267 3d98 Delete type=0 #10
+2017/10/23-11:14:07.470 3d98 Level-0 table #15: started
+2017/10/23-11:14:07.809 3d98 Level-0 table #15: 4206148 bytes OK
+2017/10/23-11:14:07.833 3d98 Delete type=0 #12
+2017/10/23-11:14:07.833 3d98 Compacting 4@0 + 1@1 files
+2017/10/23-11:14:08.169 3d98 Level-0 table #18: started
+2017/10/23-11:14:08.509 3d98 Level-0 table #18: 4432032 bytes OK
+2017/10/23-11:14:08.535 3d98 Delete type=0 #14
+2017/10/23-11:14:08.967 3d98 Generated table #17: 5080 keys, 2161297 bytes
+2017/10/23-11:14:08.967 3d98 Level-0 table #20: started
+2017/10/23-11:14:09.158 3d98 Level-0 table #20: 4159598 bytes OK
+2017/10/23-11:14:09.159 3d98 compacted to: files[ 5 1 1 0 0 0 0 ]
+2017/10/23-11:14:09.167 3d98 Waiting after background compaction error: IO error: Deleting DB during compaction

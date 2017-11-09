@@ -1,0 +1,74 @@
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.py
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.dll.config
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.Modules.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.SQLite.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.Wpf.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Dynamic.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.Modules.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.SQLite.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\IronPython.Wpf.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Dynamic.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.py
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.dll.config
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Sample02_DLR.pdb
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.Modules.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.SQLite.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.Wpf.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Dynamic.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.Modules.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.SQLite.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\IronPython.Wpf.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Dynamic.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\mentoring d2\Samples\Sample02_DLR\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.dll
+D:\mentoring d2\Samples\Sample02_DLR\obj\Debug\Sample02_DLR.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.py
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Sample02_DLR.dll.config
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Sample02_DLR.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Sample02_DLR.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.Modules.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.SQLite.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.Wpf.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Dynamic.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.Modules.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.SQLite.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\IronPython.Wpf.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Dynamic.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.AspNet.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\obj\Debug\Sample02_DLR.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\obj\Debug\Sample02_DLR.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\obj\Debug\Sample02_DLR.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DLR\obj\Debug\Sample02_DLR.pdb

@@ -1,0 +1,13 @@
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\bin\Debug\Task5.exe.config
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\bin\Debug\Task5.exe
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\bin\Debug\Task5.pdb
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\obj\Debug\Task5.exe
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task5\obj\Debug\Task5.pdb
+D:\d3 mentoring\Mentoring\Module01\Task5\bin\Debug\Task5.exe.config
+D:\d3 mentoring\Mentoring\Module01\Task5\bin\Debug\Task5.exe
+D:\d3 mentoring\Mentoring\Module01\Task5\bin\Debug\Task5.pdb
+D:\d3 mentoring\Mentoring\Module01\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\Mentoring\Module01\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\Task5\obj\Debug\Task5.exe
+D:\d3 mentoring\Mentoring\Module01\Task5\obj\Debug\Task5.pdb

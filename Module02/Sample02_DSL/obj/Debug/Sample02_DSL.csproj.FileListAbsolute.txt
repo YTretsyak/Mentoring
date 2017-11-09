@@ -1,0 +1,20 @@
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DSL\bin\Debug\Sample02_DSL.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DSL\bin\Debug\Sample02_DSL.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Samples\Sample02_DSL\bin\Debug\Sample02_DSL.dll
+D:\mentoring d2\Samples\Sample02_DSL\bin\Debug\Sample02_DSL.pdb
+D:\mentoring d2\Samples\Sample02_DSL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Samples\Sample02_DSL\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.dll
+D:\mentoring d2\Samples\Sample02_DSL\obj\Debug\Sample02_DSL.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\bin\Debug\Sample02_DSL.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\bin\Debug\Sample02_DSL.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\obj\Debug\Sample02_DSL.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\obj\Debug\Sample02_DSL.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\obj\Debug\Sample02_DSL.dll
+D:\mentoring d2\Новая папка\Module02\Sample02_DSL\obj\Debug\Sample02_DSL.pdb

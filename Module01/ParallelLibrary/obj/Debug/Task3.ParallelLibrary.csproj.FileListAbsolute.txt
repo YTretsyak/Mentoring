@@ -1,0 +1,6 @@
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\bin\Debug\ParallelLibrary.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\bin\Debug\ParallelLibrary.pdb
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\obj\Debug\Task3.ParallelLibrary.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\obj\Debug\Task3.ParallelLibrary.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\obj\Debug\ParallelLibrary.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibrary\obj\Debug\ParallelLibrary.pdb

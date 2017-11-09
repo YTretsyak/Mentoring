@@ -1,0 +1,15 @@
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02\bin\Debug\Sample02.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02\bin\Debug\Sample02.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02\obj\Debug\Sample02.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Sample02\obj\Debug\Sample02.pdb
+D:\mentoring d2\Samples\Sample02\bin\Debug\Sample02.dll
+D:\mentoring d2\Samples\Sample02\bin\Debug\Sample02.pdb
+D:\mentoring d2\Samples\Sample02\obj\Debug\Sample02.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Samples\Sample02\obj\Debug\Sample02.dll
+D:\mentoring d2\Samples\Sample02\obj\Debug\Sample02.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02\bin\Debug\Sample02.dll
+D:\mentoring d2\Новая папка\Module02\Sample02\bin\Debug\Sample02.pdb
+D:\mentoring d2\Новая папка\Module02\Sample02\obj\Debug\Sample02.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Новая папка\Module02\Sample02\obj\Debug\Sample02.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Новая папка\Module02\Sample02\obj\Debug\Sample02.dll
+D:\mentoring d2\Новая папка\Module02\Sample02\obj\Debug\Sample02.pdb

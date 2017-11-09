@@ -1,0 +1,6 @@
+D:\d3 mentoring\Mentoring\Module01\Task9\bin\Debug\Task9.exe.config
+D:\d3 mentoring\Mentoring\Module01\Task9\bin\Debug\Task9.exe
+D:\d3 mentoring\Mentoring\Module01\Task9\bin\Debug\Task9.pdb
+D:\d3 mentoring\Mentoring\Module01\Task9\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\Task9\obj\Debug\Task9.exe
+D:\d3 mentoring\Mentoring\Module01\Task9\obj\Debug\Task9.pdb

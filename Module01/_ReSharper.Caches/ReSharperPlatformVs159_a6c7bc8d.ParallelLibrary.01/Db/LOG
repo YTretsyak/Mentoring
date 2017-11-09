@@ -1,0 +1,260 @@
+2017/10/23-11:07:43.340 4880 Delete type=3 #1
+2017/10/23-11:07:55.780 3bec Level-0 table #5: started
+2017/10/23-11:07:56.138 3bec Level-0 table #5: 3841150 bytes OK
+2017/10/23-11:07:56.186 3bec Delete type=0 #3
+2017/10/23-11:07:56.544 3bec Level-0 table #7: started
+2017/10/23-11:07:56.939 3bec Level-0 table #7: 4309617 bytes OK
+2017/10/23-11:07:56.974 3bec Delete type=0 #4
+2017/10/23-11:07:57.305 3bec Level-0 table #9: started
+2017/10/23-11:07:57.655 3bec Level-0 table #9: 3989264 bytes OK
+2017/10/23-11:07:57.683 3bec Delete type=0 #6
+2017/10/23-11:07:57.922 3bec Level-0 table #11: started
+2017/10/23-11:07:58.205 3bec Level-0 table #11: 4053554 bytes OK
+2017/10/23-11:07:58.230 3bec Delete type=0 #8
+2017/10/23-11:07:58.448 3bec Level-0 table #13: started
+2017/10/23-11:07:58.757 3bec Level-0 table #13: 4109664 bytes OK
+2017/10/23-11:07:58.789 3bec Delete type=0 #10
+2017/10/23-11:07:58.992 3bec Level-0 table #15: started
+2017/10/23-11:07:59.272 3bec Level-0 table #15: 4214800 bytes OK
+2017/10/23-11:07:59.297 3bec Delete type=0 #12
+2017/10/23-11:07:59.298 3bec Compacting 4@0 + 1@1 files
+2017/10/23-11:07:59.540 3bec Level-0 table #18: started
+2017/10/23-11:07:59.838 3bec Level-0 table #18: 3769503 bytes OK
+2017/10/23-11:07:59.880 3bec Delete type=0 #14
+2017/10/23-11:08:00.355 3bec Generated table #17: 5256 keys, 2152570 bytes
+2017/10/23-11:08:00.355 3bec Level-0 table #20: started
+2017/10/23-11:08:00.654 3bec Level-0 table #20: 3787961 bytes OK
+2017/10/23-11:08:00.680 3bec Delete type=0 #16
+2017/10/23-11:08:01.040 3bec Level-0 table #23: started
+2017/10/23-11:08:01.313 3bec Level-0 table #23: 4328783 bytes OK
+2017/10/23-11:08:01.338 3bec Delete type=0 #19
+2017/10/23-11:08:01.663 3bec Generated table #22: 4673 keys, 2161308 bytes
+2017/10/23-11:08:01.663 3bec Level-0 table #25: started
+2017/10/23-11:08:01.854 3bec Level-0 table #25: 3836267 bytes OK
+2017/10/23-11:08:01.871 3bec Delete type=0 #21
+2017/10/23-11:08:02.141 3bec Generated table #26: 4288 keys, 2163237 bytes
+2017/10/23-11:08:02.141 3bec Level-0 table #28: started
+2017/10/23-11:08:02.327 3bec Level-0 table #28: 3953379 bytes OK
+2017/10/23-11:08:02.346 3bec Delete type=0 #24
+2017/10/23-11:08:02.446 3bec Generated table #29: 2651 keys, 2181863 bytes
+2017/10/23-11:08:02.596 3bec Generated table #30: 3618 keys, 2162500 bytes
+2017/10/23-11:08:02.718 3bec Generated table #31: 3110 keys, 2171432 bytes
+2017/10/23-11:08:02.850 3bec Generated table #32: 3370 keys, 2176828 bytes
+2017/10/23-11:08:03.000 3bec Generated table #33: 2904 keys, 2169146 bytes
+2017/10/23-11:08:03.127 3bec Generated table #34: 2597 keys, 2173896 bytes
+2017/10/23-11:08:03.247 3bec Generated table #35: 1534 keys, 1139045 bytes
+2017/10/23-11:08:03.247 3bec Compacted 4@0 + 1@1 files => 20651825 bytes
+2017/10/23-11:08:03.279 3bec Delete type=2 #7
+2017/10/23-11:08:03.280 3bec Delete type=2 #9
+2017/10/23-11:08:03.281 3bec Delete type=2 #11
+2017/10/23-11:08:03.281 3bec Delete type=2 #13
+2017/10/23-11:08:03.282 3bec Delete type=2 #15
+2017/10/23-11:08:03.283 3bec compacted to: files[ 5 10 1 0 0 0 0 ]
+2017/10/23-11:08:03.283 3bec Expanding@1 1+1 to 10+1
+2017/10/23-11:08:03.283 3bec Compacting 10@1 + 1@2 files
+2017/10/23-11:08:03.414 3bec Generated table #36: 5214 keys, 2161480 bytes
+2017/10/23-11:08:03.546 3bec Generated table #37: 5077 keys, 2150569 bytes
+2017/10/23-11:08:03.705 3bec Generated table #38: 4845 keys, 2159182 bytes
+2017/10/23-11:08:03.846 3bec Generated table #39: 4078 keys, 2167324 bytes
+2017/10/23-11:08:03.993 3bec Generated table #40: 2704 keys, 2173469 bytes
+2017/10/23-11:08:04.137 3bec Generated table #41: 2624 keys, 2179191 bytes
+2017/10/23-11:08:04.254 3bec Generated table #42: 3562 keys, 2156741 bytes
+2017/10/23-11:08:04.355 3bec Generated table #43: 3423 keys, 2170031 bytes
+2017/10/23-11:08:04.488 3bec Generated table #44: 3308 keys, 2174079 bytes
+2017/10/23-11:08:04.599 3bec Generated table #45: 2792 keys, 2171606 bytes
+2017/10/23-11:08:04.749 3bec Generated table #46: 2549 keys, 2182706 bytes
+2017/10/23-11:08:04.838 3bec Generated table #47: 942 keys, 624363 bytes
+2017/10/23-11:08:04.838 3bec Compacted 10@1 + 1@2 files => 24470741 bytes
+2017/10/23-11:08:04.894 3bec Delete type=2 #5
+2017/10/23-11:08:04.895 3bec Delete type=2 #17
+2017/10/23-11:08:04.895 3bec Delete type=2 #22
+2017/10/23-11:08:04.895 3bec Delete type=2 #26
+2017/10/23-11:08:04.896 3bec Delete type=2 #29
+2017/10/23-11:08:04.896 3bec Delete type=2 #30
+2017/10/23-11:08:04.896 3bec Delete type=2 #31
+2017/10/23-11:08:04.897 3bec Delete type=2 #32
+2017/10/23-11:08:04.897 3bec Delete type=2 #33
+2017/10/23-11:08:04.897 3bec Delete type=2 #34
+2017/10/23-11:08:04.898 3bec Delete type=2 #35
+2017/10/23-11:08:04.898 3bec compacted to: files[ 5 0 12 0 0 0 0 ]
+2017/10/23-11:08:04.898 3bec Compacting 5@0 + 0@1 files
+2017/10/23-11:08:05.139 3bec Generated table #48: 4992 keys, 2157641 bytes
+2017/10/23-11:08:05.370 3bec Generated table #49: 4580 keys, 2158733 bytes
+2017/10/23-11:08:05.478 3bec Generated table #50: 906 keys, 608286 bytes
+2017/10/23-11:08:05.687 3bec Generated table #51: 2913 keys, 2172184 bytes
+2017/10/23-11:08:05.933 3bec Generated table #52: 2676 keys, 2164356 bytes
+2017/10/23-11:08:06.269 3bec Generated table #53: 3777 keys, 2160573 bytes
+2017/10/23-11:08:06.505 3bec Generated table #54: 2633 keys, 2173804 bytes
+2017/10/23-11:08:06.712 3bec Generated table #55: 2785 keys, 2178085 bytes
+2017/10/23-11:08:06.904 3bec Generated table #56: 2390 keys, 2084535 bytes
+2017/10/23-11:08:06.904 3bec Compacted 5@0 + 0@1 files => 17858197 bytes
+2017/10/23-11:08:06.929 3bec Delete type=2 #18
+2017/10/23-11:08:06.930 3bec Delete type=2 #20
+2017/10/23-11:08:06.930 3bec Delete type=2 #23
+2017/10/23-11:08:06.931 3bec Delete type=2 #25
+2017/10/23-11:08:06.931 3bec Delete type=2 #28
+2017/10/23-11:08:06.932 3bec compacted to: files[ 0 9 12 0 0 0 0 ]
+2017/10/23-11:08:06.932 3bec Compacting 1@1 + 4@2 files
+2017/10/23-11:08:07.120 3bec Generated table #57: 5168 keys, 2159193 bytes
+2017/10/23-11:08:07.299 3bec Generated table #58: 5184 keys, 2155317 bytes
+2017/10/23-11:08:07.460 3bec Generated table #59: 4540 keys, 2162102 bytes
+2017/10/23-11:08:07.656 3bec Generated table #60: 4419 keys, 2166376 bytes
+2017/10/23-11:08:07.846 3bec Generated table #61: 4871 keys, 2147108 bytes
+2017/10/23-11:08:07.846 3bec Compacted 1@1 + 4@2 files => 10790096 bytes
+2017/10/23-11:08:07.887 3bec Delete type=2 #36
+2017/10/23-11:08:07.887 3bec Delete type=2 #37
+2017/10/23-11:08:07.888 3bec Delete type=2 #38
+2017/10/23-11:08:07.888 3bec Delete type=2 #39
+2017/10/23-11:08:07.888 3bec Delete type=2 #48
+2017/10/23-11:08:07.889 3bec compacted to: files[ 0 8 13 0 0 0 0 ]
+2017/10/23-11:08:07.889 3bec Compacting 1@1 + 1@2 files
+2017/10/23-11:08:08.071 3bec Generated table #62: 5241 keys, 2153124 bytes
+2017/10/23-11:08:08.248 3bec Generated table #63: 4210 keys, 2152673 bytes
+2017/10/23-11:08:08.248 3bec Compacted 1@1 + 1@2 files => 4305797 bytes
+2017/10/23-11:08:08.270 3bec Delete type=2 #49
+2017/10/23-11:08:08.272 3bec Delete type=2 #61
+2017/10/23-11:08:08.273 3bec compacted to: files[ 0 7 14 0 0 0 0 ]
+2017/10/23-11:08:08.273 3bec Compacting 1@1 + 6@2 files
+2017/10/23-11:08:08.448 3bec Generated table #64: 4170 keys, 2178214 bytes
+2017/10/23-11:08:08.602 3bec Generated table #65: 3049 keys, 2165906 bytes
+2017/10/23-11:08:08.737 3bec Generated table #66: 2568 keys, 2181584 bytes
+2017/10/23-11:08:08.896 3bec Generated table #67: 3596 keys, 2163620 bytes
+2017/10/23-11:08:09.013 3bec Generated table #68: 3076 keys, 2170612 bytes
+2017/10/23-11:08:09.206 3bec Generated table #69: 3374 keys, 2178230 bytes
+2017/10/23-11:08:09.304 3bec Generated table #70: 904 keys, 578873 bytes
+2017/10/23-11:08:09.304 3bec Compacted 1@1 + 6@2 files => 13617039 bytes
+2017/10/23-11:08:09.328 3bec Delete type=2 #40
+2017/10/23-11:08:09.329 3bec Delete type=2 #41
+2017/10/23-11:08:09.329 3bec Delete type=2 #42
+2017/10/23-11:08:09.329 3bec Delete type=2 #43
+2017/10/23-11:08:09.330 3bec Delete type=2 #44
+2017/10/23-11:08:09.330 3bec Delete type=2 #50
+2017/10/23-11:08:09.330 3bec Delete type=2 #63
+2017/10/23-11:08:09.331 3bec compacted to: files[ 0 6 15 0 0 0 0 ]
+2017/10/23-11:08:09.331 3bec Compacting 1@1 + 1@2 files
+2017/10/23-11:08:09.468 3bec Generated table #71: 2349 keys, 2174484 bytes
+2017/10/23-11:08:09.592 3bec Generated table #72: 3113 keys, 2181656 bytes
+2017/10/23-11:08:09.592 3bec Compacted 1@1 + 1@2 files => 4356140 bytes
+2017/10/23-11:08:09.644 3bec Delete type=2 #46
+2017/10/23-11:08:09.644 3bec Delete type=2 #51
+2017/10/23-11:08:09.645 3bec compacted to: files[ 0 5 16 0 0 0 0 ]
+2017/10/23-11:08:09.645 3bec Expanding@1 1+2 to 5+2
+2017/10/23-11:08:09.645 3bec Compacting 5@1 + 2@2 files
+2017/10/23-11:08:09.781 3bec Generated table #73: 3109 keys, 2176810 bytes
+2017/10/23-11:08:09.952 3bec Generated table #74: 2817 keys, 2170564 bytes
+2017/10/23-11:08:10.102 3bec Generated table #75: 3626 keys, 2164418 bytes
+2017/10/23-11:08:10.221 3bec Generated table #76: 2644 keys, 2168538 bytes
+2017/10/23-11:08:10.333 3bec Generated table #77: 2956 keys, 2174594 bytes
+2017/10/23-11:08:10.475 3bec Generated table #78: 2678 keys, 2179241 bytes
+2017/10/23-11:08:10.563 3bec Generated table #79: 486 keys, 523117 bytes
+2017/10/23-11:08:10.563 3bec Compacted 5@1 + 2@2 files => 13557282 bytes
+2017/10/23-11:08:10.587 3bec Delete type=2 #47
+2017/10/23-11:08:10.588 3bec Delete type=2 #52
+2017/10/23-11:08:10.588 3bec Delete type=2 #53
+2017/10/23-11:08:10.589 3bec Delete type=2 #54
+2017/10/23-11:08:10.590 3bec Delete type=2 #55
+2017/10/23-11:08:10.591 3bec Delete type=2 #56
+2017/10/23-11:08:10.592 3bec Delete type=2 #72
+2017/10/23-11:08:10.592 3bec compacted to: files[ 0 0 21 0 0 0 0 ]
+2017/10/23-11:15:09.946 3bec Level-0 table #81: started
+2017/10/23-11:15:10.137 3bec Level-0 table #81: 4229634 bytes OK
+2017/10/23-11:15:10.164 3bec Delete type=0 #27
+2017/10/23-11:15:10.472 3bec Level-0 table #83: started
+2017/10/23-11:15:10.780 3bec Level-0 table #83: 4438189 bytes OK
+2017/10/23-11:15:10.805 3bec Delete type=0 #80
+2017/10/23-11:15:11.021 3bec Level-0 table #85: started
+2017/10/23-11:15:11.263 3bec Level-0 table #85: 4593734 bytes OK
+2017/10/23-11:15:11.289 3bec Delete type=0 #82
+2017/10/23-11:15:11.515 3bec Level-0 table #87: started
+2017/10/23-11:15:11.713 3bec Level-0 table #87: 4087780 bytes OK
+2017/10/23-11:15:11.739 3bec Delete type=0 #84
+2017/10/23-11:15:11.739 3bec Compacting 4@0 + 0@1 files
+2017/10/23-11:15:11.855 3bec Generated table #88: 4138 keys, 2173965 bytes
+2017/10/23-11:15:11.963 3bec Generated table #89: 2633 keys, 1414284 bytes
+2017/10/23-11:15:12.104 3bec Generated table #90: 2708 keys, 2202035 bytes
+2017/10/23-11:15:12.254 3bec Generated table #91: 3163 keys, 2177539 bytes
+2017/10/23-11:15:12.446 3bec Generated table #92: 2165 keys, 2188443 bytes
+2017/10/23-11:15:12.605 3bec Generated table #93: 1840 keys, 2189082 bytes
+2017/10/23-11:15:12.763 3bec Generated table #94: 2715 keys, 2186991 bytes
+2017/10/23-11:15:12.908 3bec Generated table #95: 863 keys, 2352563 bytes
+2017/10/23-11:15:13.022 3bec Level-0 table #98: started
+2017/10/23-11:15:13.172 3bec Level-0 table #98: 3763717 bytes OK
+2017/10/23-11:15:13.229 3bec Delete type=0 #86
+2017/10/23-11:15:13.296 3bec Generated table #97: 159 keys, 387699 bytes
+2017/10/23-11:15:13.296 3bec Compacted 4@0 + 0@1 files => 17272601 bytes
+2017/10/23-11:15:13.322 3bec Delete type=2 #81
+2017/10/23-11:15:13.323 3bec Delete type=2 #83
+2017/10/23-11:15:13.324 3bec Delete type=2 #85
+2017/10/23-11:15:13.325 3bec Delete type=2 #87
+2017/10/23-11:15:13.326 3bec compacted to: files[ 1 9 21 0 0 0 0 ]
+2017/10/23-11:15:13.326 3bec Expanding@1 1+1 to 7+1
+2017/10/23-11:15:13.326 3bec Compacting 7@1 + 1@2 files
+2017/10/23-11:15:13.472 3bec Generated table #99: 2282 keys, 2217829 bytes
+2017/10/23-11:15:13.581 3bec Generated table #100: 3352 keys, 2178513 bytes
+2017/10/23-11:15:13.673 3bec Generated table #101: 2375 keys, 2181088 bytes
+2017/10/23-11:15:13.756 3bec Generated table #102: 1771 keys, 2191679 bytes
+2017/10/23-11:15:13.832 3bec Generated table #103: 2710 keys, 2189735 bytes
+2017/10/23-11:15:13.913 3bec Generated table #104: 834 keys, 2842214 bytes
+2017/10/23-11:15:13.945 3bec Generated table #105: 156 keys, 387674 bytes
+2017/10/23-11:15:13.945 3bec Compacted 7@1 + 1@2 files => 14188732 bytes
+2017/10/23-11:15:13.963 3bec Delete type=2 #79
+2017/10/23-11:15:13.963 3bec Delete type=2 #90
+2017/10/23-11:15:13.964 3bec Delete type=2 #91
+2017/10/23-11:15:13.965 3bec Delete type=2 #92
+2017/10/23-11:15:13.965 3bec Delete type=2 #93
+2017/10/23-11:15:13.966 3bec Delete type=2 #94
+2017/10/23-11:15:13.967 3bec Delete type=2 #95
+2017/10/23-11:15:13.967 3bec Delete type=2 #97
+2017/10/23-11:15:13.968 3bec compacted to: files[ 1 2 27 0 0 0 0 ]
+2017/10/23-11:16:01.699 3bec Expanding@1 1+6 to 2+6
+2017/10/23-11:16:01.699 3bec Compacting 2@1 + 6@2 files
+2017/10/23-11:16:01.913 3bec Generated table #106: 4885 keys, 2158720 bytes
+2017/10/23-11:16:02.113 3bec Generated table #107: 5298 keys, 2153628 bytes
+2017/10/23-11:16:02.335 3bec Generated table #108: 4507 keys, 2161772 bytes
+2017/10/23-11:16:02.569 3bec Generated table #109: 4414 keys, 2167413 bytes
+2017/10/23-11:16:02.778 3bec Generated table #110: 5358 keys, 2149051 bytes
+2017/10/23-11:16:02.971 3bec Generated table #111: 4401 keys, 2176869 bytes
+2017/10/23-11:16:03.144 3bec Generated table #112: 3534 keys, 2179467 bytes
+2017/10/23-11:16:03.270 3bec Generated table #113: 3014 keys, 1400174 bytes
+2017/10/23-11:16:03.270 3bec Compacted 2@1 + 6@2 files => 16547094 bytes
+2017/10/23-11:16:03.293 3bec Delete type=2 #57
+2017/10/23-11:16:03.293 3bec Delete type=2 #58
+2017/10/23-11:16:03.294 3bec Delete type=2 #59
+2017/10/23-11:16:03.294 3bec Delete type=2 #60
+2017/10/23-11:16:03.295 3bec Delete type=2 #62
+2017/10/23-11:16:03.295 3bec Delete type=2 #64
+2017/10/23-11:16:03.296 3bec Delete type=2 #88
+2017/10/23-11:16:03.296 3bec Delete type=2 #89
+2017/10/23-11:16:03.297 3bec compacted to: files[ 1 0 29 0 0 0 0 ]
+2017/10/23-11:20:23.353 3bec Compacting 1@0 + 0@1 files
+2017/10/23-11:20:23.526 3bec Generated table #114: 3310 keys, 1530400 bytes
+2017/10/23-11:20:23.544 3bec Generated table #115: 3 keys, 2254 bytes
+2017/10/23-11:20:23.710 3bec Generated table #116: 2589 keys, 2180614 bytes
+2017/10/23-11:20:23.760 3bec Generated table #117: 98 keys, 50329 bytes
+2017/10/23-11:20:23.760 3bec Compacted 1@0 + 0@1 files => 3763597 bytes
+2017/10/23-11:20:23.784 3bec Delete type=2 #98
+2017/10/23-11:20:23.785 3bec compacted to: files[ 0 4 29 0 0 0 0 ]
+2017/10/23-11:24:25.825 3bec Compacting 1@1 + 8@2 files
+2017/10/23-11:24:26.004 3bec Generated table #118: 4905 keys, 2160352 bytes
+2017/10/23-11:24:26.154 3bec Generated table #119: 5298 keys, 2154501 bytes
+2017/10/23-11:24:26.329 3bec Generated table #120: 4507 keys, 2161896 bytes
+2017/10/23-11:24:26.479 3bec Generated table #121: 4402 keys, 2167347 bytes
+2017/10/23-11:24:26.607 3bec Generated table #122: 5382 keys, 2152763 bytes
+2017/10/23-11:24:26.732 3bec Generated table #123: 4402 keys, 2177040 bytes
+2017/10/23-11:24:26.851 3bec Generated table #124: 3527 keys, 2179757 bytes
+2017/10/23-11:24:27.004 3bec Generated table #125: 4629 keys, 2175893 bytes
+2017/10/23-11:24:27.114 3bec Generated table #126: 1664 keys, 739372 bytes
+2017/10/23-11:24:27.114 3bec Compacted 1@1 + 8@2 files => 18068921 bytes
+2017/10/23-11:24:27.137 3bec Delete type=2 #106
+2017/10/23-11:24:27.137 3bec Delete type=2 #107
+2017/10/23-11:24:27.138 3bec Delete type=2 #108
+2017/10/23-11:24:27.138 3bec Delete type=2 #109
+2017/10/23-11:24:27.139 3bec Delete type=2 #110
+2017/10/23-11:24:27.139 3bec Delete type=2 #111
+2017/10/23-11:24:27.140 3bec Delete type=2 #112
+2017/10/23-11:24:27.140 3bec Delete type=2 #113
+2017/10/23-11:24:27.141 3bec Delete type=2 #114
+2017/10/23-11:24:27.141 3bec compacted to: files[ 0 3 30 0 0 0 0 ]
+2017/10/23-13:18:29.543 3bec Level-0 table #128: started
+2017/10/23-13:18:29.836 3bec Level-0 table #128: 3943371 bytes OK
+2017/10/23-13:18:29.901 3bec Delete type=0 #96

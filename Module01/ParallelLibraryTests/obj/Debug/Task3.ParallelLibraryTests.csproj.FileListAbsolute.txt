@@ -1,0 +1,9 @@
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\bin\Debug\ParallelLibraryTests.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\bin\Debug\ParallelLibraryTests.pdb
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\bin\Debug\ParallelLibrary.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\bin\Debug\ParallelLibrary.pdb
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\obj\Debug\Task3.ParallelLibraryTests.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\obj\Debug\Task3.ParallelLibraryTests.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\obj\Debug\ParallelLibraryTests.dll
+D:\d3 mentoring\Mentoring\Module01\ParallelLibraryTests\obj\Debug\ParallelLibraryTests.pdb

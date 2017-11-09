@@ -1,0 +1,5 @@
+D:\wargaming task\mentoring 2017\ParallelLibrary\ParallelLibrary\bin\Debug\ParallelLibrary.dll
+D:\wargaming task\mentoring 2017\ParallelLibrary\ParallelLibrary\bin\Debug\ParallelLibrary.pdb
+D:\wargaming task\mentoring 2017\ParallelLibrary\ParallelLibrary\obj\Debug\ParallelLibrary.csprojResolveAssemblyReference.cache
+D:\wargaming task\mentoring 2017\ParallelLibrary\ParallelLibrary\obj\Debug\ParallelLibrary.dll
+D:\wargaming task\mentoring 2017\ParallelLibrary\ParallelLibrary\obj\Debug\ParallelLibrary.pdb

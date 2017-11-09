@@ -1,0 +1,19 @@
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Task3\bin\Debug\Task3.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Task3\bin\Debug\Task3.pdb
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Task3\obj\Debug\Task3.dll
+D:\wargaming task\mentoring 2017\02. Expressions and IQueryable\Samples\Task3\obj\Debug\Task3.pdb
+D:\mentoring d2\Samples\Task3\bin\Debug\Task3.dll
+D:\mentoring d2\Samples\Task3\bin\Debug\Task3.pdb
+D:\mentoring d2\Samples\Task3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Samples\Task3\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Samples\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Samples\Task3\obj\Debug\Task3.dll
+D:\mentoring d2\Samples\Task3\obj\Debug\Task3.pdb
+D:\mentoring d2\Новая папка\Module02\Task3\bin\Debug\Task3.dll
+D:\mentoring d2\Новая папка\Module02\Task3\bin\Debug\Task3.pdb
+D:\mentoring d2\Новая папка\Module02\Task3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\Новая папка\Module02\Task3\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\Новая папка\Module02\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\mentoring d2\Новая папка\Module02\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\mentoring d2\Новая папка\Module02\Task3\obj\Debug\Task3.dll
+D:\mentoring d2\Новая папка\Module02\Task3\obj\Debug\Task3.pdb

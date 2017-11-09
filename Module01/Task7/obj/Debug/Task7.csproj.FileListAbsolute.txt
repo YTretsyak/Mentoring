@@ -1,0 +1,20 @@
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.exe.config
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.exe
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.pdb
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.exe
+D:\wargaming task\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.pdb
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.exe
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\obj\Debug\Task7.pdb
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.exe.config
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.exe
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task7\bin\Debug\Task7.pdb
+D:\d3 mentoring\Mentoring\Module01\Task7\bin\Debug\Task7.exe.config
+D:\d3 mentoring\Mentoring\Module01\Task7\bin\Debug\Task7.exe
+D:\d3 mentoring\Mentoring\Module01\Task7\bin\Debug\Task7.pdb
+D:\d3 mentoring\Mentoring\Module01\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\Mentoring\Module01\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\Task7\obj\Debug\Task7.exe
+D:\d3 mentoring\Mentoring\Module01\Task7\obj\Debug\Task7.pdb

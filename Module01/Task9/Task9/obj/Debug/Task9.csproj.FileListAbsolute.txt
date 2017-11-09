@@ -1,0 +1,29 @@
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\Task9.exe.config
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\Task9.exe
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\Task9.pdb
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.DownloadManager.resources
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.Properties.Resources.resources
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.csproj.GenerateResource.Cache
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.exe
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.pdb
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\System.Net.Http.Extensions.dll
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\System.Net.Http.Primitives.dll
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\System.Net.Http.Extensions.xml
+D:\wargaming task\mentoring 2017\Task9\Task9\bin\Debug\System.Net.Http.Primitives.xml
+D:\wargaming task\mentoring 2017\Task9\Task9\obj\Debug\Task9.csproj.App.config
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\Task9.exe.config
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\Task9.exe
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\Task9.pdb
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\System.Net.Http.Extensions.dll
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\System.Net.Http.Primitives.dll
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\System.Net.Http.Extensions.xml
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\bin\Debug\System.Net.Http.Primitives.xml
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.csproj.App.config
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.DownloadManager.resources
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.Properties.Resources.resources
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.csproj.GenerateResource.Cache
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.exe
+D:\d3 mentoring\Mentoring\Module01\Task9\Task9\obj\Debug\Task9.pdb

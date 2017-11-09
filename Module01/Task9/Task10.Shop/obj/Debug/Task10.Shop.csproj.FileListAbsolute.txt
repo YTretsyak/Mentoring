@@ -1,0 +1,10 @@
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\bin\Debug\Task10.Shop.exe.config
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\bin\Debug\Task10.Shop.exe
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\bin\Debug\Task10.Shop.pdb
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.csprojResolveAssemblyReference.cache
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.Form1.resources
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.Properties.Resources.resources
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.csproj.GenerateResource.Cache
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.exe
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.pdb
+D:\wargaming task\mentoring 2017\Task9\Task10.Shop\obj\Debug\Task10.Shop.ShoppingCart.resources

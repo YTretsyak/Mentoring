@@ -1,0 +1,7 @@
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\bin\Debug\Task9.exe.config
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\bin\Debug\Task9.exe
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\bin\Debug\Task9.pdb
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\obj\Debug\Task9.exe
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\obj\Debug\Task9.pdb
+D:\d3 mentoring\mentoring-D2-D3-master\mentoring-D2-D3-master\mentoring 2017\ParallelLibrary\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
