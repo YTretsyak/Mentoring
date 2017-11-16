@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe "D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\SuspendManager.COM.dll" /tlb /codebase 
+pause

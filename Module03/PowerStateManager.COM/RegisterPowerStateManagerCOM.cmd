@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe "C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager.COM\bin\Debug\PowerStateManager.COM.PowerStateManagerCOM.dll" /tlb /codebase /verbose
+pause

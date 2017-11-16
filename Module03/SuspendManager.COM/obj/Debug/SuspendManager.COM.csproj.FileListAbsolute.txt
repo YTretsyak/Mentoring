@@ -1,0 +1,11 @@
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\SuspendManager.COM.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\SuspendManager.COM.pdb
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\PowerStateManager.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\PowerStateManager.pdb
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\obj\Debug\SuspendManager.COM.csprojResolveAssemblyReference.cache
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\obj\Debug\SuspendManager.COM.csproj.CoreCompileInputs.cache
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\obj\Debug\SuspendManager.COM.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\SuspendManager.COM\obj\Debug\SuspendManager.COM.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\bin\Debug\PowerStateManager.dll
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\bin\Debug\PowerStateManager.pdb
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.dll
+C:\Users\Dzmitry_Halai\Desktop\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.pdb
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\bin\Debug\PowerStateManager.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\bin\Debug\PowerStateManager.pdb
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.csproj.CoreCompileInputs.cache
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.dll
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.pdb
+D:\mentoring d2\D2-D3\03. Interoperating with Unmanaged Code\Новая папка\PowerStateManager\PowerStateManager\obj\Debug\PowerStateManager.csprojResolveAssemblyReference.cache
