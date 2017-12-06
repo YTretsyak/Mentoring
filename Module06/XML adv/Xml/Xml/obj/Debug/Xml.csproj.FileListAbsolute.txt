@@ -1,0 +1,12 @@
+D:\mentoring 2017\XML adv\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Xml.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Xml.pdb
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\mentoring 2017\XML adv\Xml\Xml\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\mentoring 2017\XML adv\Xml\Xml\obj\Debug\Xml.dll
+D:\mentoring 2017\XML adv\Xml\Xml\obj\Debug\Xml.pdb
