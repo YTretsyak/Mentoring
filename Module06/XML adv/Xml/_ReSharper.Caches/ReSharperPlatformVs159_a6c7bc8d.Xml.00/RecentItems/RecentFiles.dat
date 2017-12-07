@@ -5,19 +5,14 @@
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="0" fromTop="0" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_Schema.xsd" caret="578" fromTop="14" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/f:XmlValidatorTests.cs" caret="1036" fromTop="33" />
+    <File id="7020124F-9FFC-4AC3-8F3D-AAB8E0240759/f:XmlWriterSettings.cs/l:C!?Users?Yury_Tretsyak?AppData?Local?JetBrains?Shared?v09?DecompilerCache?decompiler?90C8161D-516C-448F-BE04-BB9A1F9B427C?aa?17dac03e?XmlWriterSettings.cs" caret="1857" fromTop="0" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Transformator/f:Transformator.cs" caret="973" fromTop="25" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2.xml" caret="61" fromTop="2" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="225" fromTop="5" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="643" fromTop="18" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/f:UnitTest1.cs" caret="114" fromTop="6" />
   </RecentFiles>
   <RecentEdits>
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="322" fromTop="17" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="506" fromTop="22" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="120" fromTop="5" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="0" fromTop="0" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="704" fromTop="18" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1.xml" caret="5734" fromTop="27" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_Schema.xsd" caret="575" fromTop="8" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_Schema.xsd" caret="1237" fromTop="18" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_Schema.xsd" caret="953" fromTop="17" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Validator/f:XmlValidator.cs" caret="224" fromTop="10" />
-    <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/f:XmlValidatorTests.cs" caret="348" fromTop="16" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_non_valid.xml" caret="5750" fromTop="27" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_non_valid.xml" caret="204" fromTop="5" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/d:Files/f:Task1_non_valid.xml" caret="1333" fromTop="16" />
@@ -29,5 +24,24 @@
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/f:XmlValidatorTests.cs" caret="108" fromTop="5" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/f:XmlValidatorTests.cs" caret="605" fromTop="12" />
     <File id="66EE5AA2-4E78-4727-A8D5-606B967E3412/f:XmlValidatorTests.cs" caret="1065" fromTop="18" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="714" fromTop="14" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="911" fromTop="20" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="0" fromTop="0" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Transformator/f:Transformator.cs" caret="969" fromTop="29" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Transformator/f:Transformator.cs" caret="371" fromTop="5" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/f:UnitTest1.cs" caret="519" fromTop="15" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="1146" fromTop="13" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="539" fromTop="17" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2.xml" caret="48" fromTop="1" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="1028" fromTop="15" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task2_xslt.xslt" caret="227" fromTop="6" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="843" fromTop="15" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="682" fromTop="15" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="432" fromTop="21" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="800" fromTop="28" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="149" fromTop="3" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/f:UnitTest1.cs" caret="1065" fromTop="30" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/f:UnitTest1.cs" caret="761" fromTop="24" />
+    <File id="DF2E1BA1-B3B8-4A82-BCDE-87DD8ABCFD3E/d:Files/f:Task1_xslt.xslt" caret="620" fromTop="17" />
   </RecentEdits>
 </RecentFiles>

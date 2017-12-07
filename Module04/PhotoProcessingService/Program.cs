@@ -12,6 +12,7 @@ namespace PhotoProcessingService
     private static readonly string OutputFolder = Path.Combine(currentDir, "Output");
     private static readonly string CorruptedFilesFolder = Path.Combine(currentDir, "Corrupted");
     private static readonly string ServiceName = "Photo Processing Service";
+    private static readonly string MessageQueueName = @".\private$\MyObjectQueue";
 
     static void Main(string[] args)
     {
@@ -20,7 +21,7 @@ namespace PhotoProcessingService
 
       HostFactory.Run(configurator =>
       {
-        configurator.Service(() => new PhotoProcessingService(InputFolder, OutputFolder, CorruptedFilesFolder));
+        configurator.Service(() => new PhotoProcessingService(InputFolder, OutputFolder, CorruptedFilesFolder, MessageQueueName));
 
         configurator.SetServiceName(ServiceName);
         configurator.SetDisplayName(ServiceName);

@@ -1,10 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
+using System.Messaging;
 using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
+using MigraDoc.DocumentObjectModel;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Bson;
+using PdfSharp.Pdf;
 using PhotoProcessingService.Interfaces;
+using PhotoProcessingService.Types;
 using Topshelf;
 
 namespace PhotoProcessingService
@@ -20,8 +27,9 @@ namespace PhotoProcessingService
     private FileSystemWatcher _watcher;
     private bool _documentInWriteMode = false;
     private PdfDocumentService _pdfDocumentService = null;
+    private MessageQueue _queue;
 
-    public PhotoProcessingService(string InputFolder, string OutputFolder, string CorruptedFolder)
+    public PhotoProcessingService(string InputFolder, string OutputFolder, string CorruptedFolder, string MessageQueueName)
     {
       _inputFolder = InputFolder;
       _outputFolder = OutputFolder;
@@ -31,6 +39,8 @@ namespace PhotoProcessingService
       _serviceTask = new Task(() => ServiceProcedure(_serviceCancellationTokenSource.Token));
 
       this.SetupFolders(_folders);
+
+      this.InitMessageQueue(MessageQueueName);
 
       _watcher = new FileSystemWatcher(_inputFolder);
       _watcher.Created += Watcher_Created;
@@ -78,9 +88,15 @@ namespace PhotoProcessingService
         {
           _pdfDocumentService.AddImage(e.Name);
 
-          var uniqueFileName = string.Format(@"{0}-{1}", Guid.NewGuid(), e.Name);
-          var newDoc = _outputFolder + "/" + uniqueFileName;
-          _pdfDocumentService.Save(newDoc); // e.Name
+          //var uniqueFileName = string.Format(@"{0}-{1}", Guid.NewGuid(), e.Name);
+          //var newDoc = _outputFolder + "/" + uniqueFileName;
+          //_pdfDocumentService.Save(newDoc); // e.Name
+
+          var document =_pdfDocumentService.CreatePdfDocument();
+          var docForMessage = ConvertToBytes(document);
+          Message message = new Message(docForMessage,new BinaryMessageFormatter());
+
+          _queue.Send(message);
 
           _documentInWriteMode = false;
           _pdfDocumentService = null;
@@ -124,6 +140,24 @@ namespace PhotoProcessingService
           Directory.CreateDirectory(folder);
         }
       }
+    }
+
+    private void InitMessageQueue(string messageQueueName)
+    {
+      if (MessageQueue.Exists(messageQueueName))
+        _queue = new MessageQueue(messageQueueName);
+      else
+        _queue = MessageQueue.Create(messageQueueName);
+
+      //_queue.Formatter = new BinaryMessageFormatter(new Type[] { typeof(Chunk), typeof(string) });
+    }
+
+    public byte[] ConvertToBytes(PdfDocument obj)
+    {
+      MemoryStream stream = new MemoryStream();
+      obj.Save(stream,false);
+      byte[] bytes = stream.ToArray();
+      return bytes;
     }
   }
 }

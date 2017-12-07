@@ -1,0 +1,195 @@
+2017/12/06-15:56:46.364 2fa8 Delete type=3 #1
+2017/12/06-15:56:59.222 19fc Level-0 table #5: started
+2017/12/06-15:56:59.360 19fc Level-0 table #5: 3984318 bytes OK
+2017/12/06-15:56:59.398 19fc Delete type=0 #3
+2017/12/06-15:56:59.516 19fc Level-0 table #7: started
+2017/12/06-15:56:59.644 19fc Level-0 table #7: 3679649 bytes OK
+2017/12/06-15:56:59.673 19fc Delete type=0 #4
+2017/12/06-15:56:59.764 19fc Level-0 table #9: started
+2017/12/06-15:56:59.924 19fc Level-0 table #9: 4364420 bytes OK
+2017/12/06-15:56:59.948 19fc Delete type=0 #6
+2017/12/06-15:57:00.072 19fc Level-0 table #11: started
+2017/12/06-15:57:00.206 19fc Level-0 table #11: 3768477 bytes OK
+2017/12/06-15:57:00.240 19fc Delete type=0 #8
+2017/12/06-15:57:01.572 19fc Level-0 table #13: started
+2017/12/06-15:57:01.696 19fc Level-0 table #13: 3711451 bytes OK
+2017/12/06-15:57:01.714 19fc Delete type=0 #10
+2017/12/06-15:57:01.830 19fc Level-0 table #15: started
+2017/12/06-15:57:01.964 19fc Level-0 table #15: 4309594 bytes OK
+2017/12/06-15:57:01.980 19fc Delete type=0 #12
+2017/12/06-15:57:01.981 19fc Compacting 4@0 + 1@1 files
+2017/12/06-15:57:02.070 19fc Generated table #16: 5075 keys, 2156560 bytes
+2017/12/06-15:57:02.131 19fc Generated table #17: 5370 keys, 2159248 bytes
+2017/12/06-15:57:02.190 19fc Generated table #18: 3903 keys, 2175230 bytes
+2017/12/06-15:57:02.307 19fc Generated table #19: 3444 keys, 2161559 bytes
+2017/12/06-15:57:02.373 19fc Level-0 table #22: started
+2017/12/06-15:57:02.481 19fc Level-0 table #22: 4667035 bytes OK
+2017/12/06-15:57:02.506 19fc Delete type=0 #14
+2017/12/06-15:57:02.573 19fc Generated table #21: 3844 keys, 2169434 bytes
+2017/12/06-15:57:02.722 19fc Generated table #23: 2392 keys, 2179287 bytes
+2017/12/06-15:57:02.722 19fc Level-0 table #25: started
+2017/12/06-15:57:02.822 19fc Level-0 table #25: 4244712 bytes OK
+2017/12/06-15:57:02.848 19fc Delete type=0 #20
+2017/12/06-15:57:02.972 19fc Generated table #26: 3604 keys, 2159096 bytes
+2017/12/06-15:57:02.972 19fc Level-0 table #28: started
+2017/12/06-15:57:03.064 19fc Level-0 table #28: 3893699 bytes OK
+2017/12/06-15:57:03.090 19fc Delete type=0 #24
+2017/12/06-15:57:03.223 19fc Generated table #29: 2597 keys, 2168750 bytes
+2017/12/06-15:57:03.223 19fc Level-0 table #31: started
+2017/12/06-15:57:03.322 19fc Level-0 table #31: 4088670 bytes OK
+2017/12/06-15:57:03.347 19fc Delete type=0 #27
+2017/12/06-15:57:03.489 19fc Generated table #32: 2638 keys, 2189083 bytes
+2017/12/06-15:57:03.489 19fc Level-0 table #34: started
+2017/12/06-15:57:03.645 19fc Level-0 table #34: 3832128 bytes OK
+2017/12/06-15:57:03.681 19fc Delete type=0 #30
+2017/12/06-15:57:03.754 19fc Generated table #35: 164 keys, 260460 bytes
+2017/12/06-15:57:03.754 19fc Compacted 4@0 + 1@1 files => 19778707 bytes
+2017/12/06-15:57:03.781 19fc Delete type=2 #7
+2017/12/06-15:57:03.782 19fc Delete type=2 #9
+2017/12/06-15:57:03.782 19fc Delete type=2 #11
+2017/12/06-15:57:03.783 19fc Delete type=2 #13
+2017/12/06-15:57:03.783 19fc Delete type=2 #15
+2017/12/06-15:57:03.784 19fc compacted to: files[ 5 10 1 0 0 0 0 ]
+2017/12/06-15:57:03.784 19fc Expanding@1 1+1 to 10+1
+2017/12/06-15:57:03.784 19fc Compacting 10@1 + 1@2 files
+2017/12/06-15:57:03.898 19fc Generated table #36: 4561 keys, 2160442 bytes
+2017/12/06-15:57:04.093 19fc Generated table #37: 4857 keys, 2159146 bytes
+2017/12/06-15:57:04.093 19fc Level-0 table #39: started
+2017/12/06-15:57:04.298 19fc Level-0 table #39: 3989567 bytes OK
+2017/12/06-15:57:04.331 19fc Delete type=0 #33
+2017/12/06-15:57:04.465 19fc Generated table #40: 5560 keys, 2158305 bytes
+2017/12/06-15:57:04.540 19fc Generated table #41: 3450 keys, 2178580 bytes
+2017/12/06-15:57:04.669 19fc Generated table #42: 2833 keys, 2168550 bytes
+2017/12/06-15:57:04.764 19fc Generated table #43: 3187 keys, 2171471 bytes
+2017/12/06-15:57:04.905 19fc Generated table #44: 3763 keys, 2159979 bytes
+2017/12/06-15:57:05.010 19fc Generated table #45: 2583 keys, 2173267 bytes
+2017/12/06-15:57:05.148 19fc Generated table #46: 3498 keys, 2161479 bytes
+2017/12/06-15:57:05.224 19fc Generated table #47: 2650 keys, 2173170 bytes
+2017/12/06-15:57:05.297 19fc Generated table #48: 2177 keys, 2087365 bytes
+2017/12/06-15:57:05.297 19fc Compacted 10@1 + 1@2 files => 23751754 bytes
+2017/12/06-15:57:05.364 19fc Delete type=2 #5
+2017/12/06-15:57:05.365 19fc Delete type=2 #16
+2017/12/06-15:57:05.365 19fc Delete type=2 #17
+2017/12/06-15:57:05.366 19fc Delete type=2 #18
+2017/12/06-15:57:05.366 19fc Delete type=2 #19
+2017/12/06-15:57:05.366 19fc Delete type=2 #21
+2017/12/06-15:57:05.366 19fc Delete type=2 #23
+2017/12/06-15:57:05.367 19fc Delete type=2 #26
+2017/12/06-15:57:05.367 19fc Delete type=2 #29
+2017/12/06-15:57:05.367 19fc Delete type=2 #32
+2017/12/06-15:57:05.367 19fc Delete type=2 #35
+2017/12/06-15:57:05.368 19fc compacted to: files[ 6 0 11 0 0 0 0 ]
+2017/12/06-15:57:05.368 19fc Compacting 6@0 + 0@1 files
+2017/12/06-15:57:05.489 19fc Generated table #49: 5384 keys, 2156536 bytes
+2017/12/06-15:57:05.564 19fc Generated table #50: 4572 keys, 2162402 bytes
+2017/12/06-15:57:05.620 19fc Generated table #51: 3473 keys, 2139103 bytes
+2017/12/06-15:57:05.686 19fc Generated table #52: 2766 keys, 2179753 bytes
+2017/12/06-15:57:05.764 19fc Generated table #53: 1987 keys, 2188657 bytes
+2017/12/06-15:57:05.831 19fc Generated table #54: 3455 keys, 2170075 bytes
+2017/12/06-15:57:05.897 19fc Generated table #55: 2665 keys, 2171661 bytes
+2017/12/06-15:57:05.971 19fc Generated table #56: 3177 keys, 2171315 bytes
+2017/12/06-15:57:06.047 19fc Generated table #57: 2977 keys, 2176770 bytes
+2017/12/06-15:57:06.115 19fc Generated table #58: 2785 keys, 2181764 bytes
+2017/12/06-15:57:06.241 19fc Generated table #59: 2816 keys, 2186610 bytes
+2017/12/06-15:57:06.369 19fc Generated table #60: 943 keys, 782527 bytes
+2017/12/06-15:57:06.505 19fc Compacted 6@0 + 0@1 files => 24667173 bytes
+2017/12/06-15:57:06.539 19fc Delete type=2 #22
+2017/12/06-15:57:06.544 19fc Delete type=2 #25
+2017/12/06-15:57:06.545 19fc Delete type=2 #28
+2017/12/06-15:57:06.546 19fc Delete type=2 #31
+2017/12/06-15:57:06.547 19fc Delete type=2 #34
+2017/12/06-15:57:06.548 19fc Delete type=2 #39
+2017/12/06-15:57:06.549 19fc compacted to: files[ 0 12 11 0 0 0 0 ]
+2017/12/06-15:57:06.549 19fc Level-0 table #62: started
+2017/12/06-15:57:06.656 19fc Level-0 table #62: 6318464 bytes OK
+2017/12/06-15:57:06.682 19fc Delete type=0 #38
+2017/12/06-15:57:06.682 19fc Compacting 1@1 + 4@2 files
+2017/12/06-15:57:06.737 19fc Generated table #63: 4624 keys, 2158795 bytes
+2017/12/06-15:57:06.822 19fc Generated table #64: 4842 keys, 2160520 bytes
+2017/12/06-15:57:06.889 19fc Generated table #65: 5568 keys, 2162021 bytes
+2017/12/06-15:57:06.947 19fc Generated table #66: 3766 keys, 2177713 bytes
+2017/12/06-15:57:07.022 19fc Generated table #67: 5012 keys, 2146694 bytes
+2017/12/06-15:57:07.022 19fc Compacted 1@1 + 4@2 files => 10805743 bytes
+2017/12/06-15:57:07.063 19fc Delete type=2 #36
+2017/12/06-15:57:07.064 19fc Delete type=2 #37
+2017/12/06-15:57:07.064 19fc Delete type=2 #40
+2017/12/06-15:57:07.064 19fc Delete type=2 #41
+2017/12/06-15:57:07.065 19fc Delete type=2 #49
+2017/12/06-15:57:07.065 19fc compacted to: files[ 1 11 12 0 0 0 0 ]
+2017/12/06-15:57:07.065 19fc Compacting 1@1 + 1@2 files
+2017/12/06-15:57:07.147 19fc Generated table #68: 5357 keys, 2150316 bytes
+2017/12/06-15:57:07.248 19fc Generated table #69: 4227 keys, 2158790 bytes
+2017/12/06-15:57:07.248 19fc Compacted 1@1 + 1@2 files => 4309106 bytes
+2017/12/06-15:57:07.272 19fc Delete type=2 #50
+2017/12/06-15:57:07.272 19fc Delete type=2 #67
+2017/12/06-15:57:07.273 19fc compacted to: files[ 1 10 13 0 0 0 0 ]
+2017/12/06-15:57:07.273 19fc Compacting 1@1 + 7@2 files
+2017/12/06-15:57:07.363 19fc Generated table #70: 4357 keys, 2163976 bytes
+2017/12/06-15:57:07.428 19fc Generated table #71: 3009 keys, 2167970 bytes
+2017/12/06-15:57:07.490 19fc Generated table #72: 3766 keys, 2159436 bytes
+2017/12/06-15:57:07.562 19fc Generated table #73: 3569 keys, 2175613 bytes
+2017/12/06-15:57:07.640 19fc Generated table #74: 2431 keys, 2178239 bytes
+2017/12/06-15:57:07.703 19fc Generated table #75: 3359 keys, 2163502 bytes
+2017/12/06-15:57:07.782 19fc Generated table #76: 2933 keys, 2157492 bytes
+2017/12/06-15:57:07.842 19fc Generated table #77: 2790 keys, 2131264 bytes
+2017/12/06-15:57:07.842 19fc Compacted 1@1 + 7@2 files => 17297492 bytes
+2017/12/06-15:57:07.864 19fc Delete type=2 #42
+2017/12/06-15:57:07.865 19fc Delete type=2 #43
+2017/12/06-15:57:07.865 19fc Delete type=2 #44
+2017/12/06-15:57:07.866 19fc Delete type=2 #45
+2017/12/06-15:57:07.866 19fc Delete type=2 #46
+2017/12/06-15:57:07.866 19fc Delete type=2 #47
+2017/12/06-15:57:07.868 19fc Delete type=2 #51
+2017/12/06-15:57:07.868 19fc Delete type=2 #69
+2017/12/06-15:57:07.869 19fc compacted to: files[ 1 9 14 0 0 0 0 ]
+2017/12/06-15:57:07.869 19fc Expanding@1 1+1 to 9+1
+2017/12/06-15:57:07.869 19fc Compacting 9@1 + 1@2 files
+2017/12/06-15:57:07.936 19fc Generated table #78: 3052 keys, 2178285 bytes
+2017/12/06-15:57:08.087 19fc Generated table #79: 2058 keys, 2186762 bytes
+2017/12/06-15:57:08.173 19fc Generated table #80: 1985 keys, 2186224 bytes
+2017/12/06-15:57:08.276 19fc Generated table #81: 3607 keys, 2162452 bytes
+2017/12/06-15:57:08.338 19fc Generated table #82: 2686 keys, 2172666 bytes
+2017/12/06-15:57:08.414 19fc Generated table #83: 2981 keys, 2174201 bytes
+2017/12/06-15:57:08.480 19fc Generated table #84: 3140 keys, 2175793 bytes
+2017/12/06-15:57:08.564 19fc Generated table #85: 2699 keys, 2180994 bytes
+2017/12/06-15:57:08.647 19fc Generated table #86: 2878 keys, 2186010 bytes
+2017/12/06-15:57:08.689 19fc Generated table #87: 662 keys, 666289 bytes
+2017/12/06-15:57:08.689 19fc Compacted 9@1 + 1@2 files => 20269676 bytes
+2017/12/06-15:57:08.713 19fc Delete type=2 #48
+2017/12/06-15:57:08.714 19fc Delete type=2 #52
+2017/12/06-15:57:08.715 19fc Delete type=2 #53
+2017/12/06-15:57:08.715 19fc Delete type=2 #54
+2017/12/06-15:57:08.715 19fc Delete type=2 #55
+2017/12/06-15:57:08.716 19fc Delete type=2 #56
+2017/12/06-15:57:08.716 19fc Delete type=2 #57
+2017/12/06-15:57:08.716 19fc Delete type=2 #58
+2017/12/06-15:57:08.717 19fc Delete type=2 #59
+2017/12/06-15:57:08.717 19fc Delete type=2 #60
+2017/12/06-15:57:08.717 19fc compacted to: files[ 1 0 23 0 0 0 0 ]
+2017/12/06-16:00:55.965 19fc Compacting 1@0 + 0@1 files
+2017/12/06-16:00:56.077 19fc Generated table #88: 3014 keys, 1518663 bytes
+2017/12/06-16:00:56.188 19fc Generated table #89: 2662 keys, 2179893 bytes
+2017/12/06-16:00:56.267 19fc Generated table #90: 110 keys, 2236826 bytes
+2017/12/06-16:00:56.302 19fc Generated table #91: 5 keys, 382915 bytes
+2017/12/06-16:00:56.302 19fc Compacted 1@0 + 0@1 files => 6318297 bytes
+2017/12/06-16:00:56.318 19fc Delete type=2 #62
+2017/12/06-16:00:56.319 19fc compacted to: files[ 0 4 23 0 0 0 0 ]
+2017/12/06-16:01:11.527 19fc Compacting 1@1 + 7@2 files
+2017/12/06-16:01:11.655 19fc Generated table #92: 4590 keys, 2161423 bytes
+2017/12/06-16:01:11.753 19fc Generated table #93: 4804 keys, 2161343 bytes
+2017/12/06-16:01:11.835 19fc Generated table #94: 5582 keys, 2161346 bytes
+2017/12/06-16:01:11.911 19fc Generated table #95: 3695 keys, 2175593 bytes
+2017/12/06-16:01:11.993 19fc Generated table #96: 5405 keys, 2153372 bytes
+2017/12/06-16:01:12.089 19fc Generated table #97: 4392 keys, 2163105 bytes
+2017/12/06-16:01:12.196 19fc Generated table #98: 4566 keys, 2167786 bytes
+2017/12/06-16:01:12.276 19fc Generated table #99: 1498 keys, 1508618 bytes
+2017/12/06-16:01:12.276 19fc Compacted 1@1 + 7@2 files => 16652586 bytes
+2017/12/06-16:01:12.301 19fc Delete type=2 #63
+2017/12/06-16:01:12.301 19fc Delete type=2 #64
+2017/12/06-16:01:12.302 19fc Delete type=2 #65
+2017/12/06-16:01:12.302 19fc Delete type=2 #66
+2017/12/06-16:01:12.303 19fc Delete type=2 #68
+2017/12/06-16:01:12.303 19fc Delete type=2 #70
+2017/12/06-16:01:12.303 19fc Delete type=2 #71
+2017/12/06-16:01:12.304 19fc Delete type=2 #88
+2017/12/06-16:01:12.304 19fc compacted to: files[ 0 3 24 0 0 0 0 ]

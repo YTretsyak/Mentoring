@@ -1,0 +1,13 @@
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\XSLT_task.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\XSLT_task.pdb
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\obj\Debug\XSLT_task.csprojResolveAssemblyReference.cache
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\obj\Debug\XSLT_task.csproj.CoreCompileInputs.cache
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\obj\Debug\XSLT_task.dll
+D:\d3 mentoring\MentoringNew\Module06\XML adv\Xml\XSLT_task\obj\Debug\XSLT_task.pdb
