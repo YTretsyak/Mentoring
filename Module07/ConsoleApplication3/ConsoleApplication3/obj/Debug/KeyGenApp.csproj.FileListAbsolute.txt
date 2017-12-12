@@ -1,0 +1,4 @@
+D:\mongoDB\HW\HW2\ConsoleApplication3\ConsoleApplication3\bin\Debug\KeyGen.exe
+D:\mongoDB\HW\HW2\ConsoleApplication3\ConsoleApplication3\bin\Debug\KeyGen.pdb
+D:\mongoDB\HW\HW2\ConsoleApplication3\ConsoleApplication3\obj\Debug\KeyGen.exe
+D:\mongoDB\HW\HW2\ConsoleApplication3\ConsoleApplication3\obj\Debug\KeyGen.pdb
